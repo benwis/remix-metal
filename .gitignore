@@ -1,0 +1,8 @@
+.DS_Store
+remix/node_modules/
+remix/.cache
+remix/build
+remix/public/build
+rust_crate/target
+.vscode/settings.json
+.cache/
